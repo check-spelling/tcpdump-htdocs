@@ -1,5 +1,5 @@
 /******************************************************************************
- This simple example shows how to capture packets using the the pcap library
+ This simple example shows how to capture packets using the pcap library
    Copyright (C) 2000 Politecnico di Torino
 *******************************************************************************/
 
