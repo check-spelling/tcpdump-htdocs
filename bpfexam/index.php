@@ -728,7 +728,7 @@ function pipe_process (array $argv, string $stdin = ''): array
 		),
 		$pipes
 	);
-	# FIXME: When trying to execute a non-existent binary, proc_open() returns
+	# FIXME: When trying to execute a nonexistent binary, proc_open() returns
 	# a resource that is indistinguishable from a successful invocation.
 	if ($po === FALSE)
 		throw new Exception ("failed to run the ${bin} binary!");

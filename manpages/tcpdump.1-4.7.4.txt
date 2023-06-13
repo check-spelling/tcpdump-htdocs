@@ -972,7 +972,7 @@ OUTPUT FORMAT
        were omitted, as was the class (C_IN) of the A record.
 
        In the second example, helios responds to query 2 with a response  code
-       of  non-existent domain (NXDomain) with no answers, one name server and
+       of  nonexistent domain (NXDomain) with no answers, one name server and
        no authority records.  The `*' indicates that the authoritative  answer
        bit  was set.  Since there were no answers, no type, class or data were
        printed.
