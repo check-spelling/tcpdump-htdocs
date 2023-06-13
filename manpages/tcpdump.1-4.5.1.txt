@@ -278,7 +278,7 @@ OPTIONS
               hence, `-p' cannot be used as an abbreviation  for  `ether  host
               {local-hw-addr} or ether broadcast'.
 
-       -P     Choose send/receive direction direction for which packets should
+       -P     Choose send/receive direction for which packets should
               be captured. Possible values are `in', `out'  and  `inout'.  Not
               available on all platforms.
 

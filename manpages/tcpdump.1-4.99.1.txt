@@ -391,7 +391,7 @@ OPTIONS
 
        -Q direction
        --direction=direction
-              Choose send/receive direction direction for which packets should
+              Choose send/receive direction for which packets should
               be  captured.  Possible  values are `in', `out' and `inout'. Not
               available on all platforms.
 
