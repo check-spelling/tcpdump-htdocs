@@ -102,7 +102,7 @@ OPTIONS
        -l host_list
               Only  allow hosts specified in the host_list argument to connect
               to this server.  host_list is a list of host  names  or  IP  ad-
-              dresses,  separated by commas.  We suggest that you use use host
+              dresses,  separated by commas.  We suggest that you use host
               names rather than literal IP addresses in order to  avoid  prob-
               lems with different address families.
 
